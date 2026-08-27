@@ -1,7 +1,7 @@
 [project]
 name = "devinit-templates"
 version = "0.1.0"
-description = "Add your description here"
+description = "devinit templates"
 readme = "README.md"
 authors = [
     { name = "Christopher Lewis", email = "topher.the.good.ninja@gmail.com" }
@@ -9,8 +9,6 @@ authors = [
 requires-python = ">=3.14"
 dependencies = []
 
-[project.scripts]
-devinit-templates = "devinit_templates:main"
 
 [build-system]
 requires = ["uv_build>=0.12.5,<0.13.0"]
